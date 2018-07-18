@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="name"></string>
+    <string name="login">LOGIN</string>
+    <string name="password">Password</string>
+    <string name="namee"></string>
+    <string name="parvati_s_binjawadgi">PARVATI.S.BINJAWADGI</string>
+    <string name="qualification">Qualification:B.E</string>
+    <string name="facebook">Facebook:Parvati Binjawadgi</string>
+    <string name="twitter">Twitter:Parvati Binjawadgi</string>
+    <string name="designation">Designation :Student
+     \n College name:V.P.Dr.P.G.HALAKATTI COLLEGE OF ENGINERING AND TECHONOLGY
+    \n\n Residental Address: Near Daragh Jail,BJP
+    \nContact Number:987654321
+    \n\n Email-id:parwathibinjawadgi@gmail.com</string>
+</resources>
